@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-tut",
+  "version": "1.0.0",
+  "description": "node js toturials",
+  "main": "index.js",
+  "scripts": {
+    "test": "kishan pithiya"
+  },
+  "author": "kishan",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
